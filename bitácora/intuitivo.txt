@@ -1,0 +1,11 @@
+Tue Jan 26 00:54:55 CST 2021
+
+Por lo pronto, seguimos cotorreando. Eltiempo nos ha puesto en otra parte, y nuestros instrumentos han dejado de decirnos dónde estamos. Debemos ahora mapear todo desde cero. 
+
+Estoy creando un nuevo entorno. Con Ubunto 20.04 instalado en mi WSL, o subsistema en windows, lo que me queda es aprovechar para crear un nuevo sistema. 
+
+Quizás aquí jale dos proyectos. Uno, ya productivo, que es guardar todo lo del museo, todo lo que podamos hacer con código para el museo.
+
+Una especie de área de juegos y experimentos. Así, tendré siempre las dos áreas de un nuevo sistema.
+
+De igual manera, estas entradas en la bitácora lo que quieren es dar un poco de más fuerza, de nuevo, a mis ganas de programar. Aquí, en este ambiente vamos a crear cosas diferentes, muy chidas. Espero que exista bastante automatización desde el principio de las tareas comunes. Y también que estemos programando con ganas. No espero estar escribiendo demasiado. Así que estas entradas serán siempre a lo que voy. A dejar en claro algunos pensamientos, mientras le vamos dando forma a esta nueva misión.  
