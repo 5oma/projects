@@ -1,0 +1,7 @@
+echo "Escribe la cita:"
+read cita 
+echo $cita >> citas.txt
+echo "Agrega el autor:"
+read autor
+echo $autor >> citas.txt
+echo __ >> citas.txt

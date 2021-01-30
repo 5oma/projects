@@ -1,6 +1,8 @@
 echo "¿Título?"
 read name
 date >> $name.txt
+whoami >> $name.txt
 echo "Se ha creado entrada $name."
 vi $name.txt
+
 
