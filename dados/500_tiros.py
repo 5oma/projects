@@ -1,5 +1,15 @@
-from dados import tiro_de_dados
+from dados import echar_dados
 
+datos = []
+
+# populating list
 for n in range(0,500):
-   tiro_de_dados()
+   datos.append(echar_dados())
+
+# data analytics
+
+for tiro in datos: 
+    print(sum(tiro))
+
+
 
